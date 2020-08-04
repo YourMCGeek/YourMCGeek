@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm YourMCGeek</h1>
 <h3 align="center">A passionate, yet struggling, student developer</h3>
 
-<img src="https://badges.pufler.dev/years/yourmcgeek" alt="Years on Github"> 
-</p>
 
 - 🌱 I’m currently learning **Javascript**
 
