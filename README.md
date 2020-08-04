@@ -9,7 +9,16 @@
 
 - 💬 Ask me about **Music! 🎶**
 
-<h2 align="center">🤓 Interesting Statistics!
+---
+
+<h3 align="center"> :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<h3 align="center">🤓 Interesting Statistics!
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
