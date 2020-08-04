@@ -12,13 +12,14 @@
 ---
 
 <h3 align="center"> :zap: Recent Activity
-
+<br>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
 <h3 align="center">🤓 Interesting Statistics!
+<br>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
